@@ -8,4 +8,6 @@
 }
 
 代码来自其他人，
-在该技术上，实现了
+在该技术上，实现了一个比较实用的视频识别系统。
+项目地址：链接：https://pan.baidu.com/s/1X4SjpimvYA3DmLLklwxhTQ 
+提取码：z0qe
